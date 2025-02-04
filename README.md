@@ -1,26 +1,71 @@
 <h1 align="center">Hi 👋, I'm SATHEESH KUMAR P</h1>
-<h3 align="center">A passionate Java Programmer from Aruppukkottai</h3>
+<h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satheesh1501&label=Profile%20views&color=0e75b6&style=flat" alt="satheesh1501" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satheesh1501&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satheesh1501" alt="satheesh1501" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=satheesh1501&margin-w=5&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Placement Preperation**
+---
 
-- 🌱 I’m currently learning **Cloud Computing, Embedded Programming, Data Visulaization**
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate **with my friends**
+- 🔭 I’m currently working at **Profit.co**
+- 🌱 I’m currently learning **Cloud Computing, Embedded Programming, Data Visualization**
+- 👯 I’m looking to collaborate **with my colleagues**
+- 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/satheesh1501)
+- 💬 Ask me about **Java, JavaScript, C, MySQL, Data Structures**
+- 📫 Reach me at **psatheeshkumar89@gmail.com**
+- ⚡ Fun fact: **I Like Adventures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/satheesh1501](https://github.com/satheesh1501)
+---
 
-- 💬 Ask me about **Java, JavaScript, C, Mysql, Data Structures**
+### 🌟 My Role at Profit.co
 
-- 📫 How to reach me **psatheeshkumar89@gmail.com**
+At **Profit.co**, I specialize in back-end development, using **Java** to design and implement robust features, manage complex business logic, and develop **RESTful APIs**. I also optimize code for **performance and scalability**. Additionally, I contribute to front-end development, utilizing **Angular** for UI tasks and ensuring responsive interfaces. My role also involves extensive use of **Elasticsearch** for efficient data storage, retrieval, and indexing. Debugging and system optimization are key aspects of my responsibilities. I actively follow industry best practices to deliver high-quality, scalable solutions aligned with organizational goals.
 
-- ⚡ Fun fact **I Like Adventures**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### 🛠️ Tech Stack & Skills
+
+#### **Backend**
+- Java, Spring Boot, MySQL, MongoDB, REST APIs
+
+#### **Frontend**
+- HTML, CSS, JavaScript, Angular, TypeScript
+
+#### **Other Tools & Technologies**
+- Elasticsearch, Git, Docker, Cloud Computing
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satheesh1501&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satheesh1501&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satheesh1501&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌍 Connect with Me
+
+<p align="center">
+  <a href="mailto:psatheeshkumar89@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/satheeshkumarp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/satheesh1501"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
