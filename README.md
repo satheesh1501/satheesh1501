@@ -15,11 +15,8 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working at **Profit.co**
-- 🌱 I’m currently learning **Cloud Computing, Embedded Programming, Data Visualization**
-- 👯 I’m looking to collaborate **with my colleagues**
+- 🔭 I’m currently working at **Hcl**
 - 👨‍💻 Check out my projects: [GitHub Profile](https://github.com/satheesh1501)
-- 💬 Ask me about **Java, JavaScript, C, MySQL, Data Structures**
 - 📫 Reach me at **psatheeshkumar89@gmail.com**
 - ⚡ Fun fact: **I Like Adventures**
 
