@@ -24,6 +24,14 @@
 
 ### 🌟 My Role at Profit.co
 
+At **HCL Technologies**, focusing on backend development using **Spring Boot**. I am responsible for building and maintaining **RESTful APIs**, implementing business logic, and integrating applications with **MySQL** databases. My role involves improving application performance through optimization and debugging, ensuring scalability and reliability. I collaborate with cross-functional teams to deliver high-quality software solutions, while following agile practices such as sprint planning, code reviews, and continuous deployment.
+
+---
+
+---
+
+### 🌟 My Role at HCL
+
 At **Profit.co**, I specialize in back-end development, using **Java** to design and implement robust features, manage complex business logic, and develop **RESTful APIs**. I also optimize code for **performance and scalability**. Additionally, I contribute to front-end development, utilizing **Angular** for UI tasks and ensuring responsive interfaces. My role also involves extensive use of **Elasticsearch** for efficient data storage, retrieval, and indexing. Debugging and system optimization are key aspects of my responsibilities. I actively follow industry best practices to deliver high-quality, scalable solutions aligned with organizational goals.
 
 ---
@@ -37,7 +45,7 @@ At **Profit.co**, I specialize in back-end development, using **Java** to design
 - HTML, CSS, JavaScript, Angular, TypeScript
 
 #### **Other Tools & Technologies**
-- Elasticsearch, Git, Docker, Cloud Computing
+- Elasticsearch, Git, Docker
 
 ---
 
